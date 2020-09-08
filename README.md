@@ -2,7 +2,7 @@
 I'm Nyx Iskandar a.k.a. xyntechx, a 16-year-old indie game and app developer.
 As a budding programmer, I aim to create fun via the code I write, which is translated into games, mobile apps, and other cool stuff. Needless to say, life is about experimentation - and having fun while you're at it!
 
-[<img align="center" alt="xyntechx | Instagram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][https://www.instagram.com/xyntechx/?hl=en]
+<img align="center" alt="xyntechx | Instagram" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>(https://www.instagram.com/xyntechx/?hl=en)
 
 ## Languages & Tools
 I can program in:
