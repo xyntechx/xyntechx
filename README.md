@@ -59,7 +59,7 @@ On November 2019, I decided to make my own game after playing my childhood game,
 Without a doubt, the journey wasn't all that easy, especially since this was my first attempt at creating my very own real game from scratch. For starters, I had to learn a new language (C#) to be able to program in Unity. Afterwards, I had to learn the myriads of Unity-only functions so that I could actually program the game. Drawing the designs for the game was also no easy feat. Nonetheless, I sincerely enjoyed the process as it made me appreciate the art of programming and designing more.
 
 
-# Final Words
+# Goals
 As I pursue my passion in programming, I hope to learn many more concepts and techniques in the ever-growing field of Computer Science.
 I hope to create many more games and apps because, in all honesty, I thoroughly enjoy programming and designing as both allow me to express myself creatively in this thought-provoking field. I also do hope to be able to learn more research-based and industrial applications of Computer Science. Hence, I aim to learn Machine Learning soon! Who knows, I may be spending my next finals week programming again (oops).
 
