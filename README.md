@@ -55,6 +55,7 @@ As this project was positively received by our mentors and beneficiaries, my gro
 On November 2019, I decided to make my own game after playing my childhood game, Minecraft! I knew that I wanted to make a simple yet satisfying game as I was inspired by the countless mobile games which I have come across a million times before. Hence, I pulled out my laptop, found out about Unity, drew the designs I needed to draw, and proceeded to put things together. _Volia!_ Black Hole was born.
 
 > If you want to play Black Hole, you can do so by visiting my [BlackHole-Game](https://github.com/xyntechx/BlackHole-Game) repository
+
 > If you want to check out the code for Black Hole, you can do so by visiting my [BlackHole](https://github.com/xyntechx/BlackHole) repository
 
 Without a doubt, the journey wasn't all that easy, especially since this was my first attempt at creating my very own real game from scratch. For starters, I had to learn a new language (C#) to be able to program in Unity. Afterwards, I had to learn the myriads of Unity-only functions so that I could actually program the game. Drawing the designs for the game was also no easy feat. Nonetheless, I sincerely enjoyed the process as it made me appreciate the art of programming and designing more.
