@@ -14,7 +14,7 @@ I can program in:
 <br/>
 <br/>
 and I usually use:
-- Visual Studio Code/Atom/Jupyter Notebook/Spyder/IntelliJ IDEA (for random programs)
+- Visual Studio Code/Jupyter Notebook/Spyder/IntelliJ IDEA (for random programs)
 - Visual Studio + Unity (for Unity games)
 - Android Studio (for apps)
 
