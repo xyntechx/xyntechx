@@ -30,6 +30,7 @@ I love to:
 - President of Student Council (2019 - 2020)
 - 10th place (out of 300+ participants) in the 2019 National Public Speaking Competition
 - Gold Medal in [iCAN 2019](https://www.tisias.org/ican-2019.html)
+- STEAM Excellence Pinnacle Award 2019 (school-based award)
 - Bronze Medal in the 2020 Singapore Junior Physics Olympiad
 - Top in Cohort (Primary/Grade 1 - Secondary 3/Grade 9) (as of now)
 
