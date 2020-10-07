@@ -36,6 +36,6 @@ I love to:
 
 ## Goals
 As I pursue my passion in programming, I look forward to learning many more concepts and techniques in the ever-growing field of Computer Science.
-I hope to create many more games and apps because, in all honesty, I thoroughly enjoy programming and designing as both allow me to express myself creatively in this thought-provoking field. I also do hope to be able to learn more research-based and industrial applications of Computer Science. Hence, I aim to learn Machine Learning soon!
+I hope to create many more games and apps because, in all honesty, I thoroughly enjoy programming and designing as both allow me to express myself creatively in this thought-provoking field. I also do hope to be able to learn more research-based and industrial applications of Computer Science. Hence, I aim to learn Machine Learning and Quantum Computing soon!
 
 **_🌟 Work Hard, Play Hard 🌟_**
