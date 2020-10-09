@@ -9,8 +9,9 @@ I can program in:
 <br/>
 <img align="center" alt="Python" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
 <img align="center" alt="Java" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"/>
-<img align="center" alt="C#" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"/>
 <img align="center" alt="Kotlin" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"/>
+<img align="center" alt="C#" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"/>
+<img align="center" alt="C++" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"/>
 <br/>
 <br/>
 and I usually use:
@@ -36,6 +37,6 @@ I love to:
 
 ## Goals
 As I pursue my passion in programming, I look forward to learning many more concepts and techniques in the ever-growing field of Computer Science.
-I hope to create many more games and apps because, in all honesty, I thoroughly enjoy programming and designing as both allow me to express myself creatively in this thought-provoking field. I also do hope to be able to learn more research-based and industrial applications of Computer Science. Hence, I aim to learn Machine Learning and Quantum Computing soon!
+I hope to create many more games and apps because, in all honesty, I thoroughly enjoy programming and designing as both allow me to express myself creatively in this thought-provoking field. Furthermore, I want to dive into competitive programming as I hope to be able to polish up my problem solving and creative thinking skills. Last but certainly not least, I hope to learn Machine Learning and Quantum Computing soon because I am extremely intrigued by those fields!
 
 **_🌟 Work Hard, Play Hard 🌟_**
