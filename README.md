@@ -34,7 +34,7 @@ I love to:
 - 2019 STEAM Excellence Pinnacle Award (school-based award)
 - 14th place (out of 150+ participants) in the 2018 National Environment Quiz
 - Distinction Award in the 2017 ICAS Science by UNSW Global
-- and a few others I earned before 2017 :)
+- and several others I earned before 2017 :)
 
 ## Goals
 As I pursue my passion in programming, I look forward to learning many more concepts and techniques in the ever-growing field of Computer Science.
