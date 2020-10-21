@@ -33,7 +33,7 @@ I love to:
 - Gold Medal in [iCAN 2019](https://www.tisias.org/ican-2019.html)
 - 2019 STEAM Excellence Pinnacle Award (school-based award)
 - Bronze Medal in the 2020 Singapore Junior Physics Olympiad
-- Top in Cohort (Primary/Grade 1 - Secondary 3/Grade 9) (as of now)
+- Top in Cohort (Grades 1 - 9) (as of now)
 
 ## Goals
 As I pursue my passion in programming, I look forward to learning many more concepts and techniques in the ever-growing field of Computer Science.
