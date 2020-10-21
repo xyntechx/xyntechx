@@ -1,4 +1,4 @@
-I'm Nyx Iskandar a.k.a. xyntechx, a 16-year-old indie game and app developer.
+I'm Nyx Iskandar a.k.a. xyntechx, a 16-year-old who loves to code as well as pursue Computer Science and all things STEM.
 As a budding programmer, I aim to create fun via the code I write, which is translated into games, mobile apps, and other cool stuff. Needless to say, life is about experimentation - and having fun while you're at it!
 
 [Codeforces](https://codeforces.com/profile/xyntechx) | [Codewars](https://www.codewars.com/users/xyntechx) | [HackerRank](https://www.hackerrank.com/xyntechx) | [Instagram](https://www.instagram.com/xyntechx/?hl=en)
@@ -37,6 +37,6 @@ I love to:
 
 ## Goals
 As I pursue my passion in programming, I look forward to learning many more concepts and techniques in the ever-growing field of Computer Science.
-I hope to create many more games and apps because, in all honesty, I thoroughly enjoy programming and designing as both allow me to express myself creatively in this thought-provoking field. Furthermore, I want to dive into competitive programming as I hope to polish up my problem solving and creative thinking skills. Last but certainly not least, I hope to learn Machine Learning and Quantum Computing soon because I am extremely intrigued by those fields!
+I hope to create more games and apps because, in all honesty, I thoroughly enjoy programming and designing as both allow me to express myself creatively in this thought-provoking field. Furthermore, I want to dive into competitive programming as I hope to polish up my problem solving and creative thinking skills. Last but certainly not least, I hope to learn Machine Learning and Quantum Computing soon because I am extremely intrigued by those fields!
 
 **_🌟 Work Hard, Play Hard 🌟_**
