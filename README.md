@@ -29,7 +29,7 @@ I love to:
 - Top in Cohort (Grades 1 - 9) (as of now)
 - Bronze Medal in the 2020 Singapore Junior Physics Olympiad
 - President of Student Council (2019 - 2020)
-- Gold Medal in [iCAN 2019](https://www.tisias.org/ican-2019.html)
+- Gold Award in [iCAN 2019](https://www.tisias.org/ican-2019.html)
 - 10th place (out of 300+ participants) in the 2019 National Public Speaking Competition
 - 2019 STEAM Excellence Pinnacle Award (school-based award)
 - 14th place (out of 150+ participants) in the 2018 National Environment Quiz
