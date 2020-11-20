@@ -1,8 +1,6 @@
 I'm Nyx Iskandar a.k.a. xyntechx, a 16-year-old who loves Computer Science and all things STEM!
 As a programmer, I aim to create fun via the code I write, which is translated into games, mobile apps, and other cool stuff. Needless to say, life is about experimentation - and having fun while you're at it!
 
-[Codeforces](https://codeforces.com/profile/xyntechx) | [Codewars](https://www.codewars.com/users/xyntechx) | [HackerRank](https://www.hackerrank.com/xyntechx) | [Instagram](https://www.instagram.com/xyntechx/?hl=en)
-
 ## Languages & Tools
 I can program in:
 <br/>
@@ -38,5 +36,8 @@ I love to:
 
 ## Goals
 As I pursue my passion in programming, I look forward to learning many more concepts and techniques in the ever-growing field of Computer Science. Currently, I am learning Machine Learning and Quantum Computing because I am extremely intrigued by those fields! Furthermore, I hope to create more games and apps because, in all honesty, I thoroughly enjoy programming and designing as both allow me to express myself creatively in this thought-provoking field. Last but not least, I want to dive into competitive programming as I hope to polish up my problem solving and creative thinking skills.
+
+## Connect With Me
+Here's my [Instagram](https://www.instagram.com/xyntechx/?hl=en) profile!
 
 **_🌟 Work Hard, Play Hard 🌟_**
