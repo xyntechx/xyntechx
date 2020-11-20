@@ -35,7 +35,7 @@ I love to:
 - and several others I earned before 2017 :)
 
 ## Goals
-As I pursue my passion in programming, I look forward to learning many more concepts and techniques in the ever-growing field of Computer Science. Currently, I am learning Machine Learning and Quantum Computing because I am extremely intrigued by those fields! Furthermore, I hope to create more games and apps because, in all honesty, I thoroughly enjoy programming and designing as both allow me to express myself creatively in this thought-provoking field. Last but not least, I want to dive into competitive programming as I hope to polish up my problem solving and creative thinking skills.
+As I pursue my passion in programming, I look forward to learning many more concepts and techniques in the ever-growing field of Computer Science. Currently, I am learning Machine Learning and Quantum Computing because I am extremely intrigued by those fields! Furthermore, I hope to create more games and apps because, in all honesty, I thoroughly enjoy programming and designing as both allow me to express myself creatively in this thought-provoking field. Last but not least, I want to dive into competitive programming as I hope to polish up my problem solving and creative thinking skills. All in all, I aim to learn something new every single day!
 
 ## Connect With Me
 Here's my [Instagram](https://www.instagram.com/xyntechx/?hl=en) profile!
