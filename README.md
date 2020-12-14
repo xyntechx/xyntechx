@@ -25,6 +25,7 @@ I love to:
 
 ## Achievements
 - Top in Cohort (Grades 1 - 9) (as of now)
+- IBM Quantum Challenge Fall 2020 Foundational Badge
 - Bronze Medal in the 2020 Singapore Junior Physics Olympiad
 - President of Student Council (2019 - 2020)
 - Gold Award in [iCAN 2019](https://www.tisias.org/ican-2019.html)
