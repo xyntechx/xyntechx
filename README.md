@@ -1,17 +1,17 @@
 I am Nyx Iskandar, a teenager passionate about Computer Science and all things STEM! As a programmer, I aim to create fun via the code I write, which is translated into games, web apps, and other interesting projects. In doing so, I hope to teach and inspire those who aspire to pursue STEM in the future.
 
 ## Languages & Tools
-<img align="center" alt="Python" width="50px" src="https://github.com/xyntechx/xyntechx/blob/master/python.png"/>
-<img align="center" alt="C#" width="50px" src="https://github.com/xyntechx/xyntechx/blob/master/c%23.png"/>
-<img align="center" alt="C++" width="50px" src="https://github.com/xyntechx/xyntechx/blob/master/c%2B%2B.png"/>
-<img align="center" alt="Java" width="50px" src="https://github.com/xyntechx/xyntechx/blob/master/java.png"/>
-<img align="center" alt="Kotlin" width="50px" src="https://github.com/xyntechx/xyntechx/blob/master/kotlin.png"/>
-<img align="center" alt="HTML" width="50px" src="https://github.com/xyntechx/xyntechx/blob/master/html.png"/>
-<img align="center" alt="CSS" width="50px" src="https://github.com/xyntechx/xyntechx/blob/master/css.png"/>
-<img align="center" alt="Javascript" width="50px" src="https://github.com/xyntechx/xyntechx/blob/master/js.png"/>
-<img align="center" alt="Unity" width="50px" src="https://github.com/xyntechx/xyntechx/blob/master/unity.png"/>
-<img align="center" alt="Django" width="50px" src="https://github.com/xyntechx/xyntechx/blob/master/django.png"/>
-<img align="center" alt="React" width="50px" src="https://github.com/xyntechx/xyntechx/blob/master/react.png"/>
+<img align="center" alt="Python" width="40px" src="https://github.com/xyntechx/xyntechx/blob/master/python.png"/>
+<img align="center" alt="C#" width="40px" src="https://github.com/xyntechx/xyntechx/blob/master/c%23.png"/>
+<img align="center" alt="C++" width="40px" src="https://github.com/xyntechx/xyntechx/blob/master/c%2B%2B.png"/>
+<img align="center" alt="Java" width="40px" src="https://github.com/xyntechx/xyntechx/blob/master/java.png"/>
+<img align="center" alt="Kotlin" width="40px" src="https://github.com/xyntechx/xyntechx/blob/master/kotlin.png"/>
+<img align="center" alt="HTML" width="40px" src="https://github.com/xyntechx/xyntechx/blob/master/html.png"/>
+<img align="center" alt="CSS" width="40px" src="https://github.com/xyntechx/xyntechx/blob/master/css.png"/>
+<img align="center" alt="Javascript" width="40px" src="https://github.com/xyntechx/xyntechx/blob/master/js.png"/>
+<img align="center" alt="Unity" width="40px" src="https://github.com/xyntechx/xyntechx/blob/master/unity.png"/>
+<img align="center" alt="Django" width="40px" src="https://github.com/xyntechx/xyntechx/blob/master/django.png"/>
+<img align="center" alt="React" width="40px" src="https://github.com/xyntechx/xyntechx/blob/master/react.png"/>
 
 ## Interests
 I love to:
