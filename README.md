@@ -4,18 +4,17 @@ I am Nyx Iskandar, a teenager passionate about Computer Science and all things S
 I can program in:
 <br/>
 <br/>
-<img align="center" alt="Python" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"/>
-<img align="center" alt="Java" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"/>
-<img align="center" alt="Kotlin" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"/>
-<img align="center" alt="C#" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"/>
+<img align="center" alt="Python" width="35px" src="https://github.com/xyntechx/xyntechx/blob/master/python.png"/>
 <img align="center" alt="C#" width="35px" src="https://github.com/xyntechx/xyntechx/blob/master/c%23.png"/>
-<img align="center" alt="C++" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"/>
-<br/>
-<br/>
-and I usually use:
-- Visual Studio Code/Jupyter Notebook/Spyder/IntelliJ IDEA (for random programs)
-- Visual Studio + Unity (for Unity games)
-- Android Studio (for apps)
+<img align="center" alt="C++" width="35px" src="https://github.com/xyntechx/xyntechx/blob/master/c%2B%2B.png"/>
+<img align="center" alt="Java" width="35px" src="https://github.com/xyntechx/xyntechx/blob/master/java.png"/>
+<img align="center" alt="Kotlin" width="35px" src="https://github.com/xyntechx/xyntechx/blob/master/kotlin.png"/>
+<img align="center" alt="HTML" width="35px" src="https://github.com/xyntechx/xyntechx/blob/master/html.png"/>
+<img align="center" alt="CSS" width="35px" src="https://github.com/xyntechx/xyntechx/blob/master/css.png"/>
+<img align="center" alt="Javascript" width="35px" src="https://github.com/xyntechx/xyntechx/blob/master/js.png"/>
+<img align="center" alt="Unity" width="35px" src="https://github.com/xyntechx/xyntechx/blob/master/unity.png"/>
+<img align="center" alt="Django" width="35px" src="https://github.com/xyntechx/xyntechx/blob/master/django.png"/>
+<img align="center" alt="React" width="35px" src="https://github.com/xyntechx/xyntechx/blob/master/react.png"/>
 
 ## Interests
 I love to:
@@ -37,8 +36,5 @@ I love to:
 
 ## Goals
 As I pursue my passion in programming, I look forward to learning many more concepts and techniques in the ever-growing field of Computer Science. Currently, I am learning Machine Learning and Quantum Computing because I am extremely intrigued by those fields! Furthermore, I hope to create more games and apps because, in all honesty, I thoroughly enjoy programming and designing as both allow me to express myself creatively in this thought-provoking field. Last but not least, I want to dive into competitive programming as I hope to polish up my problem solving and creative thinking skills. All in all, I aim to learn something new every single day!
-
-## Connect With Me
-Here's my [Instagram](https://www.instagram.com/xyntechx/?hl=en) profile!
 
 **_🌟 Work Hard, Play Hard 🌟_**
