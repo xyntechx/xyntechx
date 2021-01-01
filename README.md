@@ -1,6 +1,7 @@
 I am Nyx Iskandar, a teenager passionate about Computer Science and all things STEM! As a programmer, I aim to create fun via the code I write, which is translated into games, web apps, and other interesting projects. In doing so, I hope to teach and inspire those who aspire to pursue STEM in the future.
 
 ## Languages & Tools
+<br></br>
 <img align="center" alt="Python" width="40px" src="https://github.com/xyntechx/xyntechx/blob/master/python.png"/>
 <img align="center" alt="C#" width="40px" src="https://github.com/xyntechx/xyntechx/blob/master/c%23.png"/>
 <img align="center" alt="C++" width="40px" src="https://github.com/xyntechx/xyntechx/blob/master/c%2B%2B.png"/>
