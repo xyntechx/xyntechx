@@ -1,5 +1,4 @@
-I'm Nyx Iskandar a.k.a. xyntechx, a 16-year-old who loves Computer Science and all things STEM!
-As a programmer, I aim to create fun via the code I write, which is translated into games, mobile apps, and other cool stuff. Needless to say, life is about experimentation - and having fun while you're at it!
+I am Nyx Iskandar, a teenager passionate about Computer Science and all things STEM! As a programmer, I aim to create fun via the code I write, which is translated into games, web apps, and other interesting projects. In doing so, I hope to teach and inspire those who aspire to pursue STEM in the future.
 
 ## Languages & Tools
 I can program in:
@@ -9,6 +8,7 @@ I can program in:
 <img align="center" alt="Java" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"/>
 <img align="center" alt="Kotlin" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"/>
 <img align="center" alt="C#" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"/>
+<img align="center" alt="C#" width="35px" src="https://github.com/xyntechx/xyntechx/blob/master/c%23.png"/>
 <img align="center" alt="C++" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"/>
 <br/>
 <br/>
