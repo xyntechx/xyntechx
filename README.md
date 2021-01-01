@@ -3,6 +3,7 @@ I am Nyx Iskandar, a teenager passionate about Computer Science and all things S
 ## Languages & Tools
 <p>
 <img align="center" alt="Python" width="80px" src="https://github.com/xyntechx/xyntechx/blob/master/python.png"/>
+  &nbsp;&nbsp;&nbsp;
 <img align="center" alt="C#" width="80px" src="https://github.com/xyntechx/xyntechx/blob/master/c%23.png"/>
 <img align="center" alt="C++" width="80px" src="https://github.com/xyntechx/xyntechx/blob/master/c%2B%2B.png"/>
 <img align="center" alt="Java" width="80px" src="https://github.com/xyntechx/xyntechx/blob/master/java.png"/>
