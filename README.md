@@ -27,16 +27,3 @@ I'm a teenager passionate about Computer Science and all things STEM! As a progr
 <a href="https://github.com/xyntechx/Quantum">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xyntechx&repo=Quantum&theme=radical"/>
 </a>
-
-<br></br>
-
-Click [![Website][1]][2] to visit my website or click [![Instagram][3]][4] to view my Instagram profile
-
-
-
-
-
-[1]: https://github.com/xyntechx/xyntechx/blob/master/myLogo.png
-[2]: https://xyntechx.herokuapp.com/
-[3]: https://github.com/xyntechx/xyntechx/blob/master/ig.png
-[4]: https://www.instagram.com/xyntechx/?hl=en
