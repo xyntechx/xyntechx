@@ -10,7 +10,8 @@ I'm a teenager passionate about Computer Science and all things STEM! As a progr
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyntechx&exclude_repo=BlackHole,BlackHole-Game,MilkyWay-Game&theme=radical"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br></br>
+
 <a href="https://github.com/xyntechx/Python-Projects">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xyntechx&repo=Python-Projects&theme=radical"/>
 </a>
