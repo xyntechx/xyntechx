@@ -29,4 +29,5 @@ I'm a teenager passionate about Computer Science and all things STEM! As a progr
 
 ## Connect With Me!
 [<img align="center" alt="React" width="80px" src="https://github.com/xyntechx/xyntechx/blob/master/myLogo.png"/>](https://xyntechx.herokuapp.com/)
+&nbsp;&nbsp;&nbsp;&nbsp;
 [<img align="center" alt="React" width="80px" src="https://github.com/xyntechx/xyntechx/blob/master/instagram.png"/>](https://www.instagram.com/xyntechx/?hl=en)
