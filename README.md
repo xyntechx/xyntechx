@@ -24,6 +24,6 @@ I'm a teenager passionate about Computer Science and all things STEM! As a progr
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xyntechx&repo=Xyntechx-Challenges&theme=radical"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/xyntechx/Quantum">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xyntechx&repo=Quantum&theme=radical"/>
+<a href="https://github.com/xyntechx/Website">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xyntechx&repo=Website&theme=radical"/>
 </a>
