@@ -12,6 +12,8 @@ I'm a teenager passionate about Computer Science and all things STEM! As a progr
 
 <br></br>
 
+## Highlighted Repositories
+
 <a href="https://github.com/xyntechx/Python-Projects">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xyntechx&repo=Python-Projects&theme=radical"/>
 </a>
