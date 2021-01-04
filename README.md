@@ -9,8 +9,8 @@ I'm a teenager passionate about Computer Science and all things STEM! As a progr
 <a href="https://github.com/xyntechx">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyntechx&exclude_repo=BlackHole,BlackHole-Game,MilkyWay-Game&theme=radical"/>
 </a>
-<a href="https://github.com/xyntechx/MilkyWay-Game">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xyntechx&repo=MilkyWay-Game"/>
+<a href="https://github.com/xyntechx/MilkyWay">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xyntechx&repo=MilkyWay&theme=radical"/>
 </a>
 
 
