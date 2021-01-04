@@ -19,9 +19,7 @@ I'm a teenager passionate about Computer Science and all things STEM! As a progr
 <a href="https://github.com/xyntechx/MilkyWay">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xyntechx&repo=MilkyWay&theme=radical"/>
 </a>
-
 <br></br>
-
 <a href="https://github.com/xyntechx/Xyntechx-Challenges">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xyntechx&repo=Xyntechx-Challenges&theme=radical"/>
 </a>
