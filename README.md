@@ -27,25 +27,4 @@ I'm a teenager passionate about Computer Science and all things STEM! As a progr
 <img align="center" alt="React" width="80px" src="https://github.com/xyntechx/xyntechx/blob/master/react.png"/>
 </p>
 
-## Interests
-I love to:
-- program
-- draw (I've been drawing my own comic book series since the age of 8)
-- play sports (my favorite sport is basketball)
-
-## Achievements
-- Top in Cohort (Grades 1 - 9) (as of now)
-- IBM Quantum Challenge Fall 2020 Foundational Badge
-- Bronze Medal in the 2020 Singapore Junior Physics Olympiad
-- President of Student Council (2019 - 2020)
-- Gold Award in [iCAN 2019](https://www.tisias.org/ican-2019.html)
-- 10th place (out of 300+ participants) in the 2019 National Public Speaking Competition
-- 2019 STEAM Excellence Pinnacle Award (school-based award)
-- 14th place (out of 150+ participants) in the 2018 National Environment Quiz
-- Distinction Award in the 2017 ICAS Science by UNSW Global
-- and several others I earned before 2017 :)
-
-## Goals
-As I pursue my passion in programming, I look forward to learning many more concepts and techniques in the ever-growing field of Computer Science. Currently, I am learning Machine Learning and Quantum Computing because I am extremely intrigued by those fields! Furthermore, I hope to create more games and apps because, in all honesty, I thoroughly enjoy programming and designing as both allow me to express myself creatively in this thought-provoking field. Last but not least, I want to dive into competitive programming as I hope to polish up my problem solving and creative thinking skills. All in all, I aim to learn something new every single day!
-
-**_🌟 Work Hard, Play Hard 🌟_**
+## Connect With Me!
