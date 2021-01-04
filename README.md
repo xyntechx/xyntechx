@@ -5,6 +5,7 @@ I'm a teenager passionate about Computer Science and all things STEM! As a progr
 <a href="https://github.com/xyntechx">
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=xyntechx&theme=radical"/>
 </a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/xyntechx">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyntechx&theme=radical"/>
 </a>
