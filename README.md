@@ -10,20 +10,25 @@ I'm a teenager passionate about Computer Science and all things STEM! As a progr
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyntechx&exclude_repo=BlackHole,BlackHole-Game,MilkyWay-Game&theme=radical"/>
 </a>
 
-## Highlighted Repositories
-
+## Pure Python
 <a href="https://github.com/xyntechx/Python-Projects">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xyntechx&repo=Python-Projects&theme=radical"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/xyntechx/Xyntechx-Challenges">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xyntechx&repo=Xyntechx-Challenges&theme=radical"/>
+</a>
+
+## Game Development
 <a href="https://github.com/xyntechx/MilkyWay">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xyntechx&repo=MilkyWay&theme=radical"/>
 </a>
-<br></br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/xyntechx/BlackHole">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xyntechx&repo=BlackHole&theme=radical"/>
+</a>
+
+## Web Development
 <a href="https://github.com/xyntechx/Website">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xyntechx&repo=Website&theme=radical"/>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/xyntechx/Xyntechx-Challenges">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xyntechx&repo=Xyntechx-Challenges&theme=radical"/>
 </a>
