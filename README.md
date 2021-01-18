@@ -14,10 +14,6 @@ I'm a teenager passionate about Computer Science and all things STEM! As a progr
 <a href="https://github.com/xyntechx/Python-Projects">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xyntechx&repo=Python-Projects&theme=radical"/>
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/xyntechx/Xyntechx-Challenges">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xyntechx&repo=Xyntechx-Challenges&theme=radical"/>
-</a>
 
 ## Game Development
 <a href="https://github.com/xyntechx/MilkyWay">
