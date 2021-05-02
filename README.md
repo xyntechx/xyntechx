@@ -1,6 +1,6 @@
-Hi! My name is Nyx!
+Hello! My name is Nyx!
 
-I'm a teenager passionate about Computer Science and all things STEM! As a programmer, I aim to create fun via the code I write, which is translated into games, web apps, and other interesting projects. In doing so, I hope to teach and inspire those who aspire to pursue STEM in the future.
+I am a driven, ambitious, and inquisitive teenager passionate about computer science, entrepreneurship, and service-learning. I love to experiment with and try out new things, striving to improve myself every day. I do not shy away from responsibilities nor opportunities as I crave challenges and chase goals ardently every step of the way. I believe that with the right mindset and the right people around, anyone can do anything in any way.
 
 <a href="https://github.com/xyntechx">
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=xyntechx&show_icons=true&include_all_commits=true&theme=radical"/>
