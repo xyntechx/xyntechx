@@ -25,10 +25,6 @@ I am a driven, ambitious, and inquisitive teenager passionate about computer sci
 </a>
 
 ## Web Development
-<a href="https://github.com/xyntechx/Quditi-Challenges">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xyntechx&repo=Quditi-Challenges&theme=radical"/>
-</a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://github.com/xyntechx/Website">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=xyntechx&repo=Website&theme=radical"/>
 </a>
