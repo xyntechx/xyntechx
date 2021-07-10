@@ -8,6 +8,8 @@ Hello! My name is Nyx!
 
 📦 I am currently working on <a href="https://github.com/xyntechx/Inspire">Inspire</a> and a research project on Manga Layout Analysis
 
+<br>
+
 <a href="https://github.com/xyntechx">
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=xyntechx&show_icons=true&include_all_commits=true&theme=radical"/>
 </a>
