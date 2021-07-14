@@ -1,12 +1,22 @@
-Hello! My name is Nyx!
+Hello! My name is Nyx a.k.a. xyntechx!
+
+# About Me 👩‍💻
 
 🧡 I love Computer Science, Entrepreneurship, and Service-Learning
 
 💻 I am passionate about Artificial Intelligence, Cybersecurity, Quantum Computing, Web Development, and all other CS fields
 
-🎯 I hope to stay hungry and foolish, aiming to become a multi-hyphenate
+# My Goals 🎯
 
-📦 I am currently working on <a href="https://github.com/xyntechx/Inspire">Inspire</a>, <a href="https://github.com/janani10734/ccaweb">the website of my school's Computer Science Society</a>, and a research project on Manga Layout Analysis
+💪 I hope to stay hungry and foolish
+
+⚡️ I aim to become a multi-hyphenate
+
+# My Ongoing Projects 📦
+
+1️⃣ <a href="https://github.com/xyntechx/Inspire">Inspire</a>
+2️⃣ <a href="https://github.com/janani10734/ccaweb">RI CSS Website</a>
+3️⃣ Manga Layout Analysis research project
 
 <br>
 
