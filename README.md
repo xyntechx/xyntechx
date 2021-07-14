@@ -1,4 +1,4 @@
-Hello! My name is Nyx a.k.a. xyntechx!
+Hello! My name is Nyx a.k.a. <a href="https://xyntechx.netlify.app/">xyntechx</a>!
 
 # About Me 👩‍💻
 
