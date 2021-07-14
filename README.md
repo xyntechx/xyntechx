@@ -6,7 +6,7 @@ Hello! My name is Nyx!
 
 🎯 I hope to stay hungry and foolish, aiming to become a multi-hyphenate
 
-📦 I am currently working on <a href="https://github.com/xyntechx/Inspire">Inspire</a> and a research project on Manga Layout Analysis
+📦 I am currently working on <a href="https://github.com/xyntechx/Inspire">Inspire</a>, <a href="https://github.com/janani10734/ccaweb">the website of my school's Computer Science Society</a>, and a research project on Manga Layout Analysis
 
 <br>
 
