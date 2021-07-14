@@ -1,18 +1,18 @@
 Hello! My name is Nyx a.k.a. <a href="https://xyntechx.netlify.app/">xyntechx</a>!
 
-### About Me 👩‍💻
+## About Me 👩‍💻
 
 🧡 I love Computer Science, Entrepreneurship, and Service-Learning
 
 💻 I am passionate about Artificial Intelligence, Cybersecurity, Quantum Computing, Web Development, and all other CS fields
 
-### My Goals 🎯
+## My Goals 🎯
 
 💪 I hope to stay hungry and foolish
 
 ⚡️ I aim to become a multi-hyphenate
 
-### My Ongoing Projects 📦
+## My Ongoing Projects 📦
 
 1️⃣ <a href="https://github.com/xyntechx/Inspire">Inspire</a>
 
