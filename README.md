@@ -1,4 +1,4 @@
-Hello! My name is Nyx a.k.a. xyntechx!
+## Hello! My name is Nyx a.k.a. xyntechx!
 
 # About Me 👩‍💻
 
@@ -15,7 +15,9 @@ Hello! My name is Nyx a.k.a. xyntechx!
 # My Ongoing Projects 📦
 
 1️⃣ <a href="https://github.com/xyntechx/Inspire">Inspire</a>
+
 2️⃣ <a href="https://github.com/janani10734/ccaweb">RI CSS Website</a>
+
 3️⃣ Manga Layout Analysis research project
 
 <br>
