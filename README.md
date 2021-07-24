@@ -18,7 +18,7 @@ Hello! My name is Nyx a.k.a. <a href="https://xyntechx.netlify.app/">xyntechx</a
 
 2️⃣ <a href="https://github.com/janani10734/ccaweb">RI CSS Website</a>
 
-3️⃣ Manga Layout Analysis research project
+3️⃣ <a href="https://github.com/xyntechx/Manga-Layout-Analysis">Manga Layout Analysis</a>
 
 <br>
 
