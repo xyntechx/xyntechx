@@ -1,26 +1,18 @@
-# 👋 Welcome
-
 Hello! My name is Nyx a.k.a. [xyntechx](https://xyntechx.netlify.app/)!
 
 ## 👩‍💻 About Me
 
-🧡 I love Computer Science, Entrepreneurship, and Service-Learning
-
-💻 I am passionate about Artificial Intelligence, Cybersecurity, Quantum Computing, Web Development, and all other CS fields
+I am a teenager who loves computer science, entrepreneurship, and service-learning. In terms of computer science, I am most passionate about deep learning and web development. Without a doubt, I am also interested in learning and making projects in cybersecurity, data science, game development, quantum computing, and all other CS fields!
 
 ## 🎯 My Goals
 
-💪 I hope to stay hungry and foolish
-
-⚡️ I aim to become a multi-hyphenate
+I strive to stay hungry and foolish, aiming to become a multi-hyphenate in computer science, entrepreneurship, and service-learning, as well as sports and the arts.
 
 ## 📦 My Ongoing Projects
 
-1️⃣ [Inspire](https://github.com/xyntechx/Inspire)
-
-2️⃣ [RI CSS Website](https://github.com/janani10734/ccaweb)
-
-3️⃣ [Manga Layout Analysis](https://github.com/xyntechx/Manga-Layout-Analysis)
+- [Inspire](https://github.com/xyntechx/Inspire)
+- [RI CSS Website](https://github.com/janani10734/ccaweb)
+- [Manga Layout Analysis](https://github.com/xyntechx/Manga-Layout-Analysis)
 
 <br>
 
