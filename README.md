@@ -1,24 +1,26 @@
-Hello! My name is Nyx a.k.a. <a href="https://xyntechx.netlify.app/">xyntechx</a>!
+# 👋 Welcome
 
-## About Me 👩‍💻
+Hello! My name is Nyx a.k.a. [xyntechx](https://xyntechx.netlify.app/)!
+
+## 👩‍💻 About Me
 
 🧡 I love Computer Science, Entrepreneurship, and Service-Learning
 
 💻 I am passionate about Artificial Intelligence, Cybersecurity, Quantum Computing, Web Development, and all other CS fields
 
-## My Goals 🎯
+## 🎯 My Goals
 
 💪 I hope to stay hungry and foolish
 
 ⚡️ I aim to become a multi-hyphenate
 
-## My Ongoing Projects 📦
+## 📦 My Ongoing Projects
 
-1️⃣ <a href="https://github.com/xyntechx/Inspire">Inspire</a>
+1️⃣ [Inspire](https://github.com/xyntechx/Inspire)
 
-2️⃣ <a href="https://github.com/janani10734/ccaweb">RI CSS Website</a>
+2️⃣ [RI CSS Website](https://github.com/janani10734/ccaweb)
 
-3️⃣ <a href="https://github.com/xyntechx/Manga-Layout-Analysis">Manga Layout Analysis</a>
+3️⃣ [Manga Layout Analysis](https://github.com/xyntechx/Manga-Layout-Analysis)
 
 <br>
 
