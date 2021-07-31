@@ -14,8 +14,6 @@ I strive to stay hungry and foolish, aiming to become a multi-hyphenate in compu
 - [RI CSS Website](https://github.com/janani10734/ccaweb)
 - [Manga Layout Analysis](https://github.com/xyntechx/Manga-Layout-Analysis)
 
-<br>
-
 <a href="https://github.com/xyntechx">
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=xyntechx&show_icons=true&include_all_commits=true&theme=radical"/>
 </a>
