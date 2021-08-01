@@ -14,11 +14,10 @@ I strive to stay hungry and foolish, aiming to become a multi-hyphenate in compu
 - [RI CSS Website](https://github.com/janani10734/ccaweb)
 - [Manga Layout Analysis](https://github.com/xyntechx/Manga-Layout-Analysis)
 
-<div style="display:flex; align-items:center; justify-content:center; column-gap:10px;">
-  <a href="https://github.com/xyntechx">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/?username=xyntechx&show_icons=true&include_all_commits=true&theme=radical"/>
-  </a>
-  <a href="https://github.com/xyntechx">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyntechx&exclude_repo=BlackHole,BlackHole-Game,MilkyWay-Game&theme=radical"/>
-  </a>
-</div>
+<a href="https://github.com/xyntechx">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=xyntechx&show_icons=true&include_all_commits=true&theme=radical"/>
+</a>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://github.com/xyntechx">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyntechx&exclude_repo=BlackHole,BlackHole-Game,MilkyWay-Game&theme=radical"/>
+</a>
