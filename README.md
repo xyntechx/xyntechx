@@ -10,8 +10,8 @@ I strive to stay hungry and foolish, aiming to become a multi-hyphenate in compu
 
 ## 📦 Ongoing Projects
 
-[![Inspire Card](https://github-readme-stats.vercel.app/api/pin/?username=xyntechx&repo=Inspire&theme=vision-friendly-dark)](https://github.com/xyntechx/Inspire)
 [![MLA Card](https://github-readme-stats.vercel.app/api/pin/?username=xyntechx&repo=Manga-Layout-Analysis&theme=vision-friendly-dark)](https://github.com/xyntechx/Manga-Layout-Analysis)
+[![Inspire Card](https://github-readme-stats.vercel.app/api/pin/?username=xyntechx&repo=Inspire&theme=vision-friendly-dark)](https://github.com/xyntechx/Inspire)
 
 ## 🔖 Profile Summary
 
