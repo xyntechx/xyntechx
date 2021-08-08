@@ -15,4 +15,5 @@ I strive to stay hungry and foolish, aiming to become a multi-hyphenate in compu
 3. [RI CSS Website](https://github.com/janani10734/ccaweb)
 
 [![Profile Card](https://github-readme-stats.vercel.app/api/?username=xyntechx&show_icons=true&include_all_commits=true&theme=vision-friendly-dark)](https://github.com/xyntechx)
+
 [![Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=xyntechx&exclude_repo=BlackHole,BlackHole-Game,MilkyWay-Game&theme=vision-friendly-dark)](https://github.com/xyntechx)
