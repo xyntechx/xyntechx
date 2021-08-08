@@ -1,4 +1,4 @@
-Hello 👋 My name is Nyx a.k.a. [xyntechx](https://xyntechx.netlify.app/)!
+Hello 👋  My name is Nyx a.k.a. [xyntechx](https://xyntechx.netlify.app/)!
 
 ## 👩‍💻 About Me
 
