@@ -2,7 +2,9 @@ Hello 👋 My name is Nyx a.k.a. [xyntechx](https://xyntechx.netlify.app/)!
 
 ## 👩‍💻 About Me
 
-I am a teenager who loves computer science, entrepreneurship, and service-learning. In terms of computer science, I am most passionate about deep learning, web development, and extended reality. Without a doubt, I am also interested and have experience in cybersecurity, data science, game development, and quantum computing!
+I am a driven, ambitious, and inquisitive teenager who loves computer science, entrepreneurship, and service-learning. In terms of computer science, I am most passionate about deep learning, web development, and extended reality. Without a doubt, I am also interested and have experience in cybersecurity, data science, game development, and quantum computing!
+
+All in all, I love to learn and experiment with new concepts and technologies, striving for improvement every day.
 
 ## 🎯 My Goals
 
