@@ -14,7 +14,6 @@ I strive to stay hungry and foolish, aiming to become a multi-hyphenate in compu
 
 [![Inspire Card](https://github-readme-stats.vercel.app/api/pin/?username=xyntechx&repo=Inspire&theme=vision-friendly-dark)](https://github.com/xyntechx/Inspire)
 [![MLA Card](https://github-readme-stats.vercel.app/api/pin/?username=xyntechx&repo=Manga-Layout-Analysis&theme=vision-friendly-dark)](https://github.com/xyntechx/Manga-Layout-Analysis)
-[![Teachers' Day Card](https://github-readme-stats.vercel.app/api/pin/?username=xyntechx&repo=Teachers-Day-2021&theme=vision-friendly-dark)](https://github.com/xyntechx/Teachers-Day-2021)
 
 ## 🔖 Profile Summary
 
