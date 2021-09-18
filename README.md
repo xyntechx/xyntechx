@@ -12,6 +12,13 @@ I love and hence hope to learn and experiment with new concepts and technologies
 
 ## 📦 Ongoing Projects
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=xyntechx&repo=Inspire&theme=vision-friendly-dark" alt="Inspire Card" width="300">
+    <a href="">https://github.com/xyntechx/Inspire</a>
+  </img>
+  
+  
+  
+  
   [![Inspire Card](https://github-readme-stats.vercel.app/api/pin/?username=xyntechx&repo=Inspire&theme=vision-friendly-dark)](https://github.com/xyntechx/Inspire)
   [![MLA Card](https://github-readme-stats.vercel.app/api/pin/?username=xyntechx&repo=Manga-Layout-Analysis&theme=vision-friendly-dark)](https://github.com/xyntechx/Manga-Layout-Analysis)
 </p>
