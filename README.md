@@ -23,9 +23,9 @@ I love and hence hope to learn and experiment with new concepts and technologies
 ## 🔖 Profile Summary
 <p align="center">
   <a href="https://github.com/xyntechx">
-    <img src="https://github-readme-stats.vercel.app/api/?username=xyntechx&show_icons=true&include_all_commits=true&theme=vision-friendly-dark" alt="Profile Card" width="420"/>
+    <img src="https://github-readme-stats.vercel.app/api/?username=xyntechx&show_icons=true&include_all_commits=true&theme=vision-friendly-dark" alt="Profile Card" width="400"/>
   </a>
   <a href="https://github.com/xyntechx">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyntechx&hide=ShaderLab,HLSL&langs_count=6&layout=compact&theme=vision-friendly-dark" alt="Languages Card" width="400"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyntechx&hide=ShaderLab,HLSL&langs_count=6&layout=compact&theme=vision-friendly-dark" alt="Languages Card" width="350"/>
   </a>
 </p>
