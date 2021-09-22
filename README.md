@@ -4,7 +4,7 @@
   <img src="https://github.com/xyntechx/xyntechx/blob/master/nyx-octocat.png" alt="Nyx Octocat" width="200"/>
 </p>
 
-<h2 align="center">👩‍💻 About Me</h2>
+<h1 align="center">👩‍💻 About Me</h1>
 I am a driven, ambitious, and inquisitive teenager who loves computer science, entrepreneurship, and service-learning. In terms of computer science, I am most passionate about deep learning, web development, and extended reality. Without a doubt, I am also interested and have experience in cybersecurity, data science, game development, and quantum computing!
 
 ## 🎯 My Goals
