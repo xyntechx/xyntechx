@@ -16,7 +16,7 @@ I love and hence hope to learn and experiment with new concepts and technologies
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=xyntechx&repo=Inspire&theme=vision-friendly-dark" alt="Inspire Card" width="400"/>
   </a>
   <a href="https://github.com/xyntechx/Manga-Layout-Analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xyntechx&repo=Manga-Layout-Analysis&theme=vision-friendly-dark" alt="MLA Card" width="400"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xyntechx&repo=Manga-Layout-Analysis&theme=vision-friendly-dark" alt="Manga Layout Analysis Card" width="400"/>
   </a>
   <a href="https://github.com/xyntechx/Book-Us">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=xyntechx&repo=Book-Us&theme=vision-friendly-dark" alt="BookUs Card" width="400"/>
