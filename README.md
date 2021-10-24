@@ -6,7 +6,7 @@
 
 <h2 align="center">👩‍💻 About Me</h2>
 <p align="justify">
-I am a driven, ambitious, and inquisitive teenager who loves computer science, entrepreneurship, and service-learning. In terms of computer science, I am most passionate about deep learning, web development, and extended reality. Without a doubt, I am also interested in cybersecurity, data science, game development, and quantum computing (I have experience in them too)!
+I am a driven, ambitious, and inquisitive teenager who loves computer science, entrepreneurship, and service-learning. In terms of computer science, I am most passionate about deep learning, web development, and extended reality. I also have experience and am undoubtedly interested in and cybersecurity, data science, game development, and quantum computing!
 </p>
 
 <h2 align="center">🎯 My Goals</h2>
