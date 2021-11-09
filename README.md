@@ -2,6 +2,7 @@
 
 <p align="center">
   <img src="https://github.com/xyntechx/xyntechx/blob/master/nyx-octocat.png" alt="Nyx Octocat" width="200"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/xyntechx/xyntechx/blob/master/nyx.jpg" alt="Nyx" width="200"/>
 </p>
 
