@@ -1,10 +1,8 @@
 <p align="center">Hello 👋 I am Nyx a.k.a. <a href="https://xyntechx.netlify.app/">xyntechx</a>!</p>
 
 <p align="center">
-  <p align="justify">
-    <img src="https://github.com/xyntechx/xyntechx/blob/master/nyx-octocat.png" alt="Nyx Octocat" width="200"/>
-    <img src="https://github.com/xyntechx/xyntechx/blob/master/nyx.jpg" alt="Nyx" width="200"/>
-  </p>
+  <img src="https://github.com/xyntechx/xyntechx/blob/master/nyx-octocat.png" alt="Nyx Octocat" width="200"/>
+  <img src="https://github.com/xyntechx/xyntechx/blob/master/nyx.jpg" alt="Nyx" width="200"/>
 </p>
 
 <h2 align="center">👩‍💻 About Me</h2>
