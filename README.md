@@ -1,18 +1,18 @@
 <p align="center">Hello 👋 I am Nyx a.k.a. <a href="https://xyntechx.netlify.app/">xyntechx</a>!</p>
 
 <p align="center">
-  <img src="https://github.com/xyntechx/xyntechx/blob/master/nyx.jpg" alt="Nyx" width="200"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/xyntechx/xyntechx/blob/master/nyx-octocat.png" alt="Nyx Octocat" width="200"/>
-</p>
-
-<p align="center">
   <img src="https://github.com/xyntechx/xyntechx/blob/master/banner.png" alt="Nyx Banner"/>
 </p>
 
 <h2 align="center">👩‍💻 About Me</h2>
+<p align="center">
+  <img src="https://github.com/xyntechx/xyntechx/blob/master/nyx.jpg" alt="Nyx" width="200"/>
+</p>
 <p align="justify">
 I am a driven, ambitious, and inquisitive teenager who loves computer science, entrepreneurship, and service-learning. In terms of computer science, I am most passionate about deep learning, web development, and extended reality. I also have experience and am undoubtedly interested in cybersecurity, data science, game development, and quantum computing!
+</p>
+<p align="center">
+  <img src="https://github.com/xyntechx/xyntechx/blob/master/nyx-octocat.png" alt="Nyx Octocat" width="200"/>
 </p>
 
 <h2 align="center">🎯 My Goals</h2>
