@@ -1,4 +1,4 @@
-<p align="center">Hello 👋 I am Nyx a.k.a. <a href="https://xyntechx.netlify.app/">xyntechx</a>!</p>
+<p align="center">Hello 👋 I'm Nyx a.k.a. <a href="https://xyntechx.netlify.app/">xyntechx</a>!</p>
 
 <p align="center">
   <img src="https://github.com/xyntechx/xyntechx/blob/master/banner.png" alt="Nyx Banner"/>
