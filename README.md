@@ -29,27 +29,28 @@ I love and hence hope to learn and experiment with new concepts and technologies
   <a href="https://github.com/xyntechx/Manga-Layout-Analysis">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=xyntechx&repo=Manga-Layout-Analysis&theme=vision-friendly-dark" alt="Manga Layout Analysis Card" width="350"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  <br/>
+  <br/>
   <a href="https://github.com/xyntechx/Book-Us">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xyntechx&repo=Book-Us&theme=vision-friendly-dark" alt="BookUs Card" width="300"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xyntechx&repo=Book-Us&theme=vision-friendly-dark" alt="BookUs Card" width="350"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/xyntechx/My-DBZ">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xyntechx&repo=My-DBZ&theme=vision-friendly-dark" alt="My DBZ Card" width="300"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xyntechx&repo=My-DBZ&theme=vision-friendly-dark" alt="My DBZ Card" width="350"/>
   </a>
 </p>
 
 <h2 align="center">🔖 Profile Summary</h2>
 <p align="center">
   <a href="https://github.com/xyntechx">
-    <img src="https://github-readme-stats.vercel.app/api/?username=xyntechx&show_icons=true&include_all_commits=true&theme=vision-friendly-dark" alt="Profile Card" width="300"/>
+    <img src="https://github-readme-stats.vercel.app/api/?username=xyntechx&show_icons=true&include_all_commits=true&theme=vision-friendly-dark" alt="Profile Card" width="350"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/xyntechx">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyntechx&hide=ShaderLab,HLSL&langs_count=8&layout=compact&theme=vision-friendly-dark" alt="Languages Card" width="300"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyntechx&hide=ShaderLab,HLSL&langs_count=8&layout=compact&theme=vision-friendly-dark" alt="Languages Card" width="350"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/xyntechx">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=xyntechx&theme=vision-friendly-dark&stroke=5CB8DD&ring=5CB8DD" alt="Streaks Card" width="300"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=xyntechx&theme=vision-friendly-dark&stroke=5CB8DD&ring=5CB8DD" alt="Streaks Card" width="350"/>
   </a>
 </p>
