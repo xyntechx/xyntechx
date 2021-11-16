@@ -1,7 +1,7 @@
 <p align="center">Hello 👋 I'm Nyx a.k.a. <a href="https://xyntechx.netlify.app/">xyntechx</a>!</p>
 
 <p align="center">
-  <img src="https://github.com/xyntechx/xyntechx/blob/master/banner.png" alt="Nyx Banner"/>
+  <img src="https://github.com/xyntechx/xyntechx/blob/master/nyx-banner.png" alt="Nyx Banner"/>
 </p>
 
 <h2 align="center">👩‍💻 About Me</h2>
