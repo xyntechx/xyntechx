@@ -33,6 +33,10 @@ I love and hence hope to learn and experiment with new concepts and technologies
   <a href="https://github.com/xyntechx/Book-Us">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=xyntechx&repo=Book-Us&theme=vision-friendly-dark" alt="BookUs Card" width="350"/>
   </a>
+  <br/>
+  <a href="https://github.com/xyntechx/Book-Us">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xyntechx&repo=Book-Us&theme=vision-friendly-dark" alt="BookUs Card" width="350"/>
+  </a>
 </p>
 
 <h2 align="center">🔖 Profile Summary</h2>
