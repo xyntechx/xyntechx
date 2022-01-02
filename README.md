@@ -30,6 +30,14 @@ I love and hence hope to learn and experiment with new concepts and technologies
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=xyntechx&repo=Manga-Layout-Analysis&theme=vision-friendly-dark" alt="Manga Layout Analysis Card" width="350"/>
   </a>
   <br/>
+  <a href="https://github.com/xyntechx/Code-for-Hope-Web">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xyntechx&repo=Code-for-Hope-Web&theme=vision-friendly-dark" alt="Code for Hope Card" width="350"/>
+  </a>
+  <br/>
+  <a href="https://github.com/xyntechx/Greymatter">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xyntechx&repo=Greymatter&theme=vision-friendly-dark" alt="Greymatter Card" width="350"/>
+  </a>
+  <br/>
   <a href="https://github.com/xyntechx/Book-Us">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=xyntechx&repo=Book-Us&theme=vision-friendly-dark" alt="BookUs Card" width="350"/>
   </a>
