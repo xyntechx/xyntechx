@@ -46,7 +46,7 @@ I love and hence hope to learn and experiment with new concepts and technologies
   </a>
   <br/>
   <a href="https://github.com/xyntechx">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyntechx&hide=ShaderLab,HLSL&langs_count=8&layout=compact&theme=vision-friendly-dark" alt="Languages Card" width="350"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyntechx&hide=ShaderLab,HLSL&langs_count=10&layout=compact&theme=vision-friendly-dark" alt="Languages Card" width="350"/>
   </a>
   <br/>
   <a href="https://github.com/xyntechx">
