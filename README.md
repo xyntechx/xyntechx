@@ -17,7 +17,7 @@ I am a driven, ambitious, and inquisitive teenager who loves computer science, e
   <img src="https://github.com/xyntechx/xyntechx/blob/master/nyx-octocat.png" alt="Nyx Octocat" width="200"/>
 </p>
 <p align="justify">
-I love and hence hope to learn and experiment with new concepts and technologies, looking for improvement every day. All in all, I strive to stay hungry and foolish, aiming to become a multi-hyphenate in computer science, entrepreneurship, and service-learning, as well as in sports and the arts.
+I love and hence hope to learn and experiment with new concepts and technologies, looking for improvement every day. All in all, I strive to stay hungry and foolish, aiming to become a multi-hyphenate in computer science, entrepreneurship, and service-learning.
 </p>
 
 <h2 align="center">📦 Ongoing Projects</h2>
