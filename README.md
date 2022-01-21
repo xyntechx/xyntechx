@@ -14,7 +14,7 @@ I am a driven, ambitious, and inquisitive teenager who loves computer science, e
 </p>
 
 <details>
-  <summary>:zap: 🚀 Ongoing Projects</summary>
+  <summary>🚀 Ongoing Projects</summary>
   
   <p align="center">
   <a href="https://github.com/xyntechx/Inspire">
@@ -40,7 +40,7 @@ I am a driven, ambitious, and inquisitive teenager who loves computer science, e
 </details>
 
 <details>
-  <summary>:zap: 🔖 Profile Summary</summary>
+  <summary>🔖 Profile Summary</summary>
   
   <p align="center">
   <a href="https://github.com/xyntechx">
