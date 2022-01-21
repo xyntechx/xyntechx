@@ -4,24 +4,19 @@
   <img src="https://github.com/xyntechx/xyntechx/blob/master/nyx-banner.png" alt="Nyx Banner"/>
 </p>
 
-<h2 align="center">👩‍💻 About Me</h2>
 <p align="center">
   <img src="https://github.com/xyntechx/xyntechx/blob/master/nyx.jpg" alt="Nyx" width="200"/>
-</p>
-<p align="justify">
-I am a driven, ambitious, and inquisitive teenager who loves computer science, entrepreneurship, and service-learning. In terms of computer science, I am most passionate about deep learning, web development, and extended reality. I also have experience and am undoubtedly interested in cybersecurity, data science, game development, and quantum computing!
-</p>
-
-<h2 align="center">🎯 My Goals</h2>
-<p align="center">
   <img src="https://github.com/xyntechx/xyntechx/blob/master/nyx-octocat.png" alt="Nyx Octocat" width="200"/>
 </p>
+
 <p align="justify">
-I love and hence hope to learn and experiment with new concepts and technologies, looking for improvement every day. All in all, I strive to stay hungry and foolish, aiming to become a multi-hyphenate in computer science, entrepreneurship, and service-learning.
+I am a driven, ambitious, and inquisitive teenager who loves computer science, entrepreneurship, and service-learning. In terms of computer science, I am most passionate about deep learning, web development, and extended reality. I also have experience and am undoubtedly interested in cybersecurity, data science, game development, and quantum computing! I love and hence hope to learn and experiment with new concepts and technologies, striving for improvement every day. All in all, I strive to stay hungry and foolish, aiming to become a multi-hyphenate in my passions.
 </p>
 
-<h2 align="center">📦 Ongoing Projects</h2>
-<p align="center">
+<details>
+  <summary>:zap: 🚀 Ongoing Projects</summary>
+  
+  <p align="center">
   <a href="https://github.com/xyntechx/Inspire">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=xyntechx&repo=Inspire&theme=vision-friendly-dark" alt="Inspire Card" width="350"/>
   </a>
@@ -42,9 +37,12 @@ I love and hence hope to learn and experiment with new concepts and technologies
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=xyntechx&repo=Book-Us&theme=vision-friendly-dark" alt="BookUs Card" width="350"/>
   </a>
 </p>
+</details>
 
-<h2 align="center">🔖 Profile Summary</h2>
-<p align="center">
+<details>
+  <summary>:zap: 🔖 Profile Summary</summary>
+  
+  <p align="center">
   <a href="https://github.com/xyntechx">
     <img src="https://github-readme-stats.vercel.app/api/?username=xyntechx&show_icons=true&include_all_commits=true&theme=vision-friendly-dark" alt="Profile Card" width="350"/>
   </a>
@@ -57,3 +55,4 @@ I love and hence hope to learn and experiment with new concepts and technologies
     <img src="https://github-readme-streak-stats.herokuapp.com?user=xyntechx&theme=vision-friendly-dark&stroke=5CB8DD&ring=5CB8DD" alt="Streaks Card" width="350"/>
   </a>
 </p>
+</details>
