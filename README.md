@@ -18,23 +18,15 @@ I am a driven, ambitious, and inquisitive teenager who loves computer science, e
   
   <p align="center">
   <a href="https://github.com/xyntechx/Inspire">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xyntechx&repo=Inspire&theme=vision-friendly-dark" alt="Inspire Card" width="350"/>
-  </a>
-  <br/>
-  <a href="https://github.com/xyntechx/Manga-Layout-Analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xyntechx&repo=Manga-Layout-Analysis&theme=vision-friendly-dark" alt="Manga Layout Analysis Card" width="350"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xyntechx&repo=Inspire&theme=vision-friendly-dark" alt="Inspire Card" width="300"/>
   </a>
   <br/>
   <a href="https://github.com/xyntechx/Code-for-Hope-Web">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xyntechx&repo=Code-for-Hope-Web&theme=vision-friendly-dark" alt="Code for Hope Card" width="350"/>
-  </a>
-  <br/>
-  <a href="https://github.com/xyntechx/Greymatter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xyntechx&repo=Greymatter&theme=vision-friendly-dark" alt="Greymatter Card" width="350"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xyntechx&repo=Code-for-Hope-Web&theme=vision-friendly-dark" alt="Code for Hope Card" width="300"/>
   </a>
   <br/>
   <a href="https://github.com/xyntechx/Book-Us">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xyntechx&repo=Book-Us&theme=vision-friendly-dark" alt="BookUs Card" width="350"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xyntechx&repo=Book-Us&theme=vision-friendly-dark" alt="BookUs Card" width="300"/>
   </a>
 </p>
 </details>
@@ -44,15 +36,15 @@ I am a driven, ambitious, and inquisitive teenager who loves computer science, e
   
   <p align="center">
   <a href="https://github.com/xyntechx">
-    <img src="https://github-readme-stats.vercel.app/api/?username=xyntechx&show_icons=true&include_all_commits=true&theme=vision-friendly-dark" alt="Profile Card" width="350"/>
+    <img src="https://github-readme-stats.vercel.app/api/?username=xyntechx&show_icons=true&include_all_commits=true&theme=vision-friendly-dark" alt="Profile Card" width="300"/>
   </a>
   <br/>
   <a href="https://github.com/xyntechx">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyntechx&hide=ShaderLab,HLSL&langs_count=10&layout=compact&theme=vision-friendly-dark" alt="Languages Card" width="350"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyntechx&hide=ShaderLab,HLSL&langs_count=10&layout=compact&theme=vision-friendly-dark" alt="Languages Card" width="300"/>
   </a>
   <br/>
   <a href="https://github.com/xyntechx">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=xyntechx&theme=vision-friendly-dark&stroke=5CB8DD&ring=5CB8DD" alt="Streaks Card" width="350"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=xyntechx&theme=vision-friendly-dark&stroke=5CB8DD&ring=5CB8DD" alt="Streaks Card" width="300"/>
   </a>
 </p>
 </details>
