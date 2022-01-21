@@ -14,11 +14,7 @@ I am a driven, ambitious, and inquisitive teenager who loves computer science, e
 </p>
 
 <details>
-  <summary>
-    <h2>
-      🚀 Ongoing Projects
-    </h2>
-  </summary>
+  <summary>🚀 Ongoing Projects</summary>
   
   <p align="center">
   <a href="https://github.com/xyntechx/Inspire">
