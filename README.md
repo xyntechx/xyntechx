@@ -21,16 +21,16 @@ I am a driven, ambitious, and inquisitive teenager who loves computer science, e
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=xyntechx&repo=Inspire&theme=vision-friendly-dark" alt="Inspire Card" width="300"/>
   </a>
   <br/>
+  <a href="https://github.com/xyntechx/Pi-Day-2022">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xyntechx&repo=Pi-Day-2022&theme=vision-friendly-dark" alt="Pi Day 2022 Card" width="300"/>
+  </a>
+  <br/>
   <a href="https://github.com/xyntechx/Book-Us">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=xyntechx&repo=Book-Us&theme=vision-friendly-dark" alt="BookUs Card" width="300"/>
   </a>
   <br/>
   <a href="https://github.com/xyntechx/Code-for-Hope-Web">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=xyntechx&repo=Code-for-Hope-Web&theme=vision-friendly-dark" alt="Code for Hope Card" width="300"/>
-  </a>
-  <br/>
-  <a href="https://github.com/xyntechx/Greymatter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xyntechx&repo=Greymatter&theme=vision-friendly-dark" alt="Greymatter Card" width="300"/>
   </a>
 </p>
 </details>
