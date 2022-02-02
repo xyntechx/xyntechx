@@ -28,10 +28,6 @@ I am a driven, ambitious, and inquisitive teenager who loves computer science, e
   <a href="https://github.com/xyntechx/Book-Us">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=xyntechx&repo=Book-Us&theme=vision-friendly-dark" alt="BookUs Card" width="300"/>
   </a>
-  <br/>
-  <a href="https://github.com/xyntechx/Code-for-Hope-Web">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xyntechx&repo=Code-for-Hope-Web&theme=vision-friendly-dark" alt="Code for Hope Card" width="300"/>
-  </a>
 </p>
 </details>
 
