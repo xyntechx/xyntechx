@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/xyntechx/xyntechx/blob/master/nyx-banner.png" alt="Nyx Banner"/>
+  <img src="https://github.com/xyntechx/xyntechx/blob/master/nyx-banner.png" alt="Nyx Banner" width="400"/>
 </p>
 
 <p align="center">
