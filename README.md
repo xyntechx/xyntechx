@@ -40,7 +40,7 @@ I am a driven, ambitious, and inquisitive teenager who loves computer science, e
   </a>
   <br/>
   <a href="https://github.com/xyntechx">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyntechx&hide=ShaderLab,HLSL&langs_count=10&layout=compact&theme=vision-friendly-dark" alt="Languages Card" width="300"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyntechx&hide=ShaderLab,HLSL&langs_count=12&layout=compact&theme=vision-friendly-dark" alt="Languages Card" width="300"/>
   </a>
   <br/>
   <a href="https://github.com/xyntechx">
