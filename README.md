@@ -4,7 +4,9 @@
 
 <p align="center">
   <img src="https://github.com/xyntechx/xyntechx/blob/master/nyx.jpg" alt="Nyx" width="200"/>
-  <img src="https://github.com/xyntechx/xyntechx/blob/master/nyx-octocat.png" alt="Nyx Octocat" width="200"/>
+  <a href="https://nxpyre.com/">
+    <img src="https://github.com/xyntechx/xyntechx/blob/master/nxpyre.png" alt="NXpyre" width="200"/>
+  </a>
 </p>
 
 <p align="center">Hello 👋 I'm Nyx a.k.a. <a href="https://xyntechx.com/">xyntechx</a>!</p>
