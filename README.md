@@ -3,7 +3,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/xyntechx/xyntechx/blob/master/nyx.jpg" alt="Nyx" width="200"/>
+  <a href="https://xyntechx.com/">
+    <img src="https://github.com/xyntechx/xyntechx/blob/master/nyx.jpg" alt="Nyx" width="200"/>
+  </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://nxpyre.com/">
     <img src="https://github.com/xyntechx/xyntechx/blob/master/nxpyre.png" alt="NXpyre" width="200"/>
