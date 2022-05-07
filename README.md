@@ -6,11 +6,11 @@
 
 <p align="center">
   <a href="https://xyntechx.com/">
-    <img src="https://github.com/xyntechx/xyntechx/blob/master/nyx.jpg" alt="Nyx Profile" width="200"/>
+    <img src="https://github.com/xyntechx/xyntechx/blob/master/nyx.jpg" alt="Nyx Profile" width="150"/>
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;
   <a href="https://nxpyre.com/">
-    <img src="https://github.com/xyntechx/xyntechx/blob/master/nxpyre.png" alt="NXpyre Logo" width="200"/>
+    <img src="https://github.com/xyntechx/xyntechx/blob/master/nxpyre.png" alt="NXpyre Logo" width="150"/>
   </a>
 </p>
 
