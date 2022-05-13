@@ -43,11 +43,11 @@ I am a driven, ambitious, and inquisitive teenager who loves computer science, r
   </a>
   <br/>
   <a href="https://github.com/xyntechx">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyntechx&hide=ShaderLab,HLSL&langs_count=10&layout=compact&theme=vision-friendly-dark" alt="Languages Card" width="300"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=xyntechx&theme=vision-friendly-dark&stroke=5CB8DD&ring=5CB8DD" alt="Streaks Card" width="300"/>
   </a>
   <br/>
   <a href="https://github.com/xyntechx">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=xyntechx&theme=vision-friendly-dark&stroke=5CB8DD&ring=5CB8DD" alt="Streaks Card" width="300"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyntechx&hide=ShaderLab,HLSL&langs_count=10&layout=compact&theme=vision-friendly-dark" alt="Languages Card" width="300"/>
   </a>
 </p>
 </details>
