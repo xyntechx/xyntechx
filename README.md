@@ -31,6 +31,10 @@ I am a driven, ambitious, and inquisitive teenager who loves computer science, r
   <a href="https://github.com/xyntechx/TEDxRI">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=xyntechx&repo=TEDxRI&theme=vision-friendly-dark" alt="TEDxRI Card" width="300"/>
   </a>
+  <br/>
+  <a href="https://github.com/xyntechx/Wordle">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xyntechx&repo=Wordle&theme=vision-friendly-dark" alt="Wordle Card" width="300"/>
+  </a>
 </p>
 </details>
 
