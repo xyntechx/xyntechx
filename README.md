@@ -18,10 +18,6 @@ I am a driven, ambitious, and inquisitive teenager who loves computer science, r
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=xyntechx&repo=NexLiber&theme=vision-friendly-dark" alt="NexLiber Card" width="300"/>
   </a>
   <br/>
-  <a href="https://github.com/xyntechx/NXpyre">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xyntechx&repo=NXpyre&theme=vision-friendly-dark" alt="NXpyre Card" width="300"/>
-  </a>
-  <br/>
   <a href="https://github.com/xyntechx/TEDxRI">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=xyntechx&repo=TEDxRI&theme=vision-friendly-dark" alt="TEDxRI Card" width="300"/>
   </a>
