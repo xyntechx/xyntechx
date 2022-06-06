@@ -7,7 +7,7 @@
 <p align="center">Hello 👋 I'm Nyx a.k.a. <a href="https://xyntechx.com/">xyntechx</a>!</p>
 
 <p align="justify">
-I am a driven, ambitious, and inquisitive teenager who loves computer science, research, entrepreneurship, and service-learning. In terms of computer science, I am most passionate about deep learning and web development. I also have experience and am undoubtedly interested in cybersecurity, data science, extended reality, game development, and quantum computing! I love and hence hope to learn and experiment with new concepts and technologies, working to improve myself every day. All in all, I strive to stay hungry and foolish, aiming to become a multi-hyphenate in my passions.
+I am a driven, ambitious, and inquisitive teenager who loves computer science, research, entrepreneurship, and service-learning. In terms of computer science, I am most passionate about deep learning and web development. I also have experience and am undoubtedly interested in cybersecurity, data science, extended reality, game development, and quantum computing! I love to experiment with and try out new things, striving to improve myself every day. Furthermore, I love and constantly aim to innovate novel solutions to challenges both big and small. All in all, I hope to stay hungry and foolish, aiming to become a multi-hyphenate.
 </p>
 
 <details>
