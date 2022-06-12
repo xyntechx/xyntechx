@@ -20,6 +20,10 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=xyntechx&repo=NexLiber&theme=vision-friendly-dark" alt="NexLiber Card" width="300"/>
   </a>
   <br/>
+  <a href="https://github.com/xyntechx/Dragon-Ball-Classifier">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xyntechx&repo=Dragon-Ball-Classifier&theme=vision-friendly-dark" alt="Dragon Ball Classifier Card" width="300"/>
+  </a>
+  <br/>
   <a href="https://github.com/xyntechx/TEDxRI">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=xyntechx&repo=TEDxRI&theme=vision-friendly-dark" alt="TEDxRI Card" width="300"/>
   </a>
