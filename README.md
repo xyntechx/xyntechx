@@ -12,6 +12,8 @@
 
 🎯 I aim to innovate novel solutions to challenges both big and small
 
+<br/>
+
 <details>
   <summary>🚀 Ongoing Projects</summary>
   
