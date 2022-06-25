@@ -16,6 +16,8 @@
 
 <details>
   <summary>🚀 Ongoing Projects</summary>
+
+  <br/>
   
   <p align="center">
   <a href="https://github.com/xyntechx/NexLiber">
@@ -30,6 +32,8 @@
 
 <details>
   <summary>🔖 Profile Summary</summary>
+
+  <br/>
   
   <p align="center">
   <a href="https://github.com/xyntechx">
