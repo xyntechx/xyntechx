@@ -8,7 +8,7 @@
 
 ✨️ I am a driven, ambitious, and inquisitive teenager passionate about computer science, research, entrepreneurship, and service-learning
 
-💻 I have experience in deep learning, web development, cybersecurity, data science, extended reality, game development, and quantum computing
+💻 I have experience in **deep learning**, **web development**, cybersecurity, data science, extended reality, game development, and quantum computing
 
 🎯 I aim to innovate novel solutions to challenges both big and small
 
