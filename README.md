@@ -14,38 +14,8 @@
 
 <br/>
 
-<details>
-  <summary>🚀 Ongoing Projects</summary>
-
-  <br/>
-  
-  <p align="center">
-  <a href="https://github.com/xyntechx/NexLiber">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xyntechx&repo=NexLiber&theme=vision-friendly-dark" alt="NexLiber Card" width="300"/>
-  </a>
-  <br/>
-  <a href="https://github.com/xyntechx/TEDxRI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=xyntechx&repo=TEDxRI&theme=vision-friendly-dark" alt="TEDxRI Card" width="300"/>
+<p align="center">
+  <a href="https://github.com/xyntechx">
+      <img src="https://github-readme-stats.vercel.app/api/?username=xyntechx&show_icons=true&include_all_commits=true&theme=vision-friendly-dark" alt="Profile Card" width="300"/>
   </a>
 </p>
-</details>
-
-<details>
-  <summary>🔖 Profile Summary</summary>
-
-  <br/>
-  
-  <p align="center">
-  <a href="https://github.com/xyntechx">
-    <img src="https://github-readme-stats.vercel.app/api/?username=xyntechx&show_icons=true&include_all_commits=true&theme=vision-friendly-dark" alt="Profile Card" width="300"/>
-  </a>
-  <br/>
-  <a href="https://github.com/xyntechx">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=xyntechx&theme=vision-friendly-dark&stroke=5CB8DD&ring=5CB8DD" alt="Streaks Card" width="300"/>
-  </a>
-  <br/>
-  <a href="https://github.com/xyntechx">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xyntechx&hide=ShaderLab,HLSL&langs_count=10&layout=compact&theme=vision-friendly-dark" alt="Languages Card" width="300"/>
-  </a>
-</p>
-</details>
