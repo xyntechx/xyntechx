@@ -10,7 +10,7 @@
 
 💻 I have experience in **deep learning**, **web development**, cybersecurity, data science, extended reality, game development, and quantum computing
 
-🎯 I aim to innovate novel solutions to challenges both big and small
+🎯 I aim and love to innovate novel solutions to challenges both big and small
 
 <br/>
 
