@@ -10,7 +10,7 @@
 
 🧠 I have experience in deep learning, web development, cybersecurity, data science, extended reality, game development, and quantum computing
 
-🎯 I aim and love to create for the community, innovating novel solutions to challenges both big and small
+🎯 I aim and love to <a href="https://github.com/xyntechx?tab=repositories">create</a> for the community, innovating novel solutions to challenges both big and small
 
 <br/>
 
