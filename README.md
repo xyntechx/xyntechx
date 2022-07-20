@@ -6,11 +6,15 @@
 
 <p align="center">Hello 👋 I'm Nyx a.k.a. <a href="https://xyntechx.com/">xyntechx</a>!</p>
 
-✨️ I am a driven, ambitious, and inquisitive teenager passionate about computer science, research, entrepreneurship, and service-learning
+✨️ I love to experiment with the unprecedented and innovate impactful solutions in my research, entrepreneurial, and service-learning pursuits in computer science and intersecting fields
 
-🧠 I have experience in deep learning, web development, cybersecurity, data science, extended reality, game development, and quantum computing
+🎯 I constantly challenge the process and am not afraid to fail, seizing any opportunity I find and pursuing everything I love with ardent energy and commitment
 
-🎯 I aim and love to <a href="https://github.com/xyntechx?tab=repositories">create</a> for the community, innovating novel solutions to challenges both big and small
+🌱 My interdisciplinary, creative, and initiative-taking spirit empowers me to leverage my many passions to better the world, and myself, in any way I can
+
+🧠 I have experience in AI, web development, cybersecurity, data science, extended reality, game development, and quantum computing
+
+🏐 Outside of STEM, I play volleyball and draw manga
 
 <br/>
 
