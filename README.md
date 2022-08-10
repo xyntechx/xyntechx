@@ -14,7 +14,7 @@
 
 🧠 I have experience in AI, web development, cybersecurity, data science, extended reality, game development, and quantum computing
 
-🏐 Outside of STEM, I love to play volleyball and draw manga
+🏐 Other than coding, I love to play volleyball and draw manga
 
 <br/>
 
