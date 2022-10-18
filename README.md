@@ -20,6 +20,6 @@
 
 <p align="center">
   <a href="https://xyntechx.com/">
-      <img src="https://github-readme-stats.vercel.app/api/?username=xyntechx&show_icons=true&include_all_commits=true&theme=vision-friendly-dark" alt="Profile Card" width="350"/>
+      <img src="https://github-readme-stats.vercel.app/api/?username=xyntechx&show_icons=true&include_all_commits=true&theme=vision-friendly-dark" alt="Profile Card" width="400"/>
   </a>
 </p>
