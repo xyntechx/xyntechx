@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://xyntechx.com/">
-    <img src="https://github.com/xyntechx/xyntechx/blob/master/nyx-intro.png" alt="Nyx's Banner" width="600"/>
+    <img src="https://github.com/xyntechx/xyntechx/blob/master/banner.png" alt="Nyx's Banner" width="600"/>
   </a>
 </p>
 
