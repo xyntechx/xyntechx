@@ -1,4 +1,6 @@
-<p align="center">Hello 👋 I'm Nyx a.k.a. <a href="https://xyntechx.com/">xyntechx</a>!</p>
+# [xyntechx](https://xyntechx.com/)
+
+👩🏻 = Nyx Iskandar
 
 🧡 = Create for the Community
 
