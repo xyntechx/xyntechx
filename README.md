@@ -4,6 +4,8 @@
 
 🧡 = Create for the Community
 
+🎓 = UC Berkeley (EECS) '27
+
 💻 = [teamxynlab](https://github.com/teamxynlab)
 
 🚀 = [NexLiber](https://nexliber.com/), [MLA](https://github.com/xyntechx/Manga-Layout-Analysis)
