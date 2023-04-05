@@ -4,7 +4,9 @@
 
 🧡 = Create for the Community
 
-🎓 = UC Berkeley (EECS) '27
+🐻 = UC Berkeley (EECS) '27
+
+🎓 = GovTech Smart Nation Scholar
 
 💻 = [teamxynlab](https://github.com/teamxynlab)
 
