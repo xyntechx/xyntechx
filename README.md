@@ -1,16 +1,12 @@
 # [xyntechx](https://xyntechx.com/)
 
-👩🏻 = Nyx Iskandar
+Hey there 👋 My name is Nyx (a.k.a. xyntechx)
 
-🧡 = Create for the Community
+I'm an innovative and creative coder and tech founder passionate about creating for the community. My ardent techie spirit has led me to become a **GovTech Smart Nation Scholar** and an incoming freshman to **UC Berkeley '27 (EECS)**.
 
-🐻 = UC Berkeley (EECS) '27
+Ever-curious, I'm constantly building projects to learn new technologies and refine my skills in familiar ones. My main ongoing projects include [NexLiber](https://nexliber.com/) (my startup) and [Plasma](https://github.com/teamxynlab/plasma) (a future-ready tech stack). You can find more of my personal projects [here](https://github.com/xyntechx?tab=repositories) and my "professional" projects [here](https://github.com/teamxynlab).
 
-🎓 = GovTech Smart Nation Scholar
-
-💻 = [teamxynlab](https://github.com/teamxynlab)
-
-🚀 = [NexLiber](https://nexliber.com/), [MLA](https://github.com/xyntechx/Manga-Layout-Analysis)
+See ya around 🚀
 
 <br/>
 
