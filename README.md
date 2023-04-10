@@ -1,6 +1,6 @@
-# [xyntechx](https://xyntechx.com/)
+[![My Banner](https://raw.githubusercontent.com/xyntechx/xyntechx/master/banner.png)](https://xyntechx.com)
 
-Hey there 👋 My name is Nyx (a.k.a. xyntechx)
+Hey there 👋 My name is Nyx (a.k.a. [xyntechx](https://xyntechx.com))
 
 I'm an innovative and creative coder and tech founder passionate about creating for the community. My ardent techie spirit has led me to become a **GovTech Smart Nation Scholar** and an incoming freshman to **UC Berkeley '27 (EECS)**.
 
