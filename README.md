@@ -6,6 +6,8 @@ I'm an innovative and creative coder and tech founder passionate about creating 
 
 Ever-curious, I'm constantly building projects to learn new technologies and refine my skills in familiar ones. My main ongoing projects include [NexLiber](https://nexliber.com/) (my startup) and [Plasma](https://github.com/teamxynlab/plasma) (a future-ready tech stack). You can find more of my personal projects [here](https://github.com/xyntechx?tab=repositories) and my "professional" projects [here](https://github.com/teamxynlab).
 
+Feel free to contact me about anything, coding or otherwise, via the contact form on my [website](https://xyntechx.com)!
+
 See ya around 🚀
 
 <br/>
