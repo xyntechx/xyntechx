@@ -2,7 +2,7 @@
 
 Hi there 👋 My name is Nyx (a.k.a. [xyntechx](https://xyntechx.com))
 
-I'm an innovative coder and tech founder passionate about creating for the community. My ardent techie spirit has led me to become a **GovTech Smart Nation Scholar 🎓** and an incoming freshman to **UC Berkeley (EECS) 🐻**.
+I'm an innovative coder and tech founder passionate about creating for the community. My ardent techie spirit has led me to become a **GovTech Smart Nation Scholar 🎓** and an incoming freshman to **UC Berkeley (EECS) 🐻**. I'm also currently interning with GovTech's WOGAA team.
 
 Ever-curious, I'm constantly building projects to learn new technologies and refine my skills in familiar ones. My main ongoing projects include [NexLiber](https://nexliber.com/) and [Plasma](https://github.com/teamxynlab/plasma). You can find more of my personal projects [here](https://github.com/xyntechx?tab=repositories) and my "professional" projects [here](https://github.com/teamxynlab).
 
