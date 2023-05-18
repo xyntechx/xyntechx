@@ -1,6 +1,6 @@
 [![My Banner](https://raw.githubusercontent.com/xyntechx/xyntechx/master/banner.png)](https://xyntechx.com)
 
-Hi 👋 My name is Nyx (a.k.a. [xyntechx](https://xyntechx.com))
+Hello 👋 My name is Nyx (a.k.a. [xyntechx](https://xyntechx.com))
 
 I'm an innovative coder and tech founder passionate about creating for the community. My ardent techie spirit has led me to become a **GovTech Smart Nation Scholar 🎓** and an incoming freshman to **UC Berkeley (EECS) 🐻**. I'm also currently interning with GovTech as a software engineer in the Whole-of-Government Application Analytics (WOGAA) team.
 
