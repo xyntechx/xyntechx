@@ -1,4 +1,4 @@
-[![My Banner](https://raw.githubusercontent.com/xyntechx/xyntechx/master/banner.png)](https://xyntechx.com)
+[![Profile Banner](https://raw.githubusercontent.com/xyntechx/xyntechx/master/banner.png)](https://xyntechx.com)
 
 Hi there 👋 My name is Nyx (a.k.a. [xyntechx](https://xyntechx.com))
 
