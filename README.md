@@ -8,4 +8,6 @@ Ever-curious, I'm constantly building projects to learn new technologies and ref
 
 Feel free to reach out to me via the contact form on my [website](https://xyntechx.com#contact) 🚀
 
-![Nyx's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xyntechx)]
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=xyntechx&theme=slateorange" alt="Nyx's GitHub Stats" />
+</p>
