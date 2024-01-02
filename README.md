@@ -4,11 +4,15 @@
 
 Hi there 👋 My name is Nyx (a.k.a. [xyntechx](https://xyntechx.com))
 
-I'm an innovative coder and tech founder passionate about creating for the community. An ardent techie, I've been awarded the **Smart Nation Scholarship** by GovTech Singapore, and am studying at **UC Berkeley** as an Electrical Engineering & Computer Sciences (**EECS**) major.
+I'm committed to build for the community through machine learning and web development. I love to explore novel technologies and innovate impactful solutions in education, robotics, etc. With my community-minded and initiative-taking spirit, I constantly challenge the process and seize every opportunity to solve challenges faced by society.
 
-Ever-curious, I'm constantly building projects to learn new technologies and refine my skills in familiar ones. My main ongoing project is [NexLiber](https://nexliber.com/) (I am currently revamping it to bring it to the whole UC Berkeley community and beyond - check out the in-progress platform!). You can find more of my personal projects [here](https://github.com/xyntechx?tab=repositories) and more of my "professional" projects [here](https://github.com/teamxynlab).
+### More About Me
 
-Feel free to check out my [website](https://xyntechx.com) 🚀
+🐻 Electrical Engineering & Computer Sciences (EECS) major at UC Berkeley
+
+🎓 Smart Nation Scholar with GovTech Singapore
+
+🚀 *Check out my website [xyntechx.com](https://xyntechx.com)*
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xyntechx&theme=slateorange" alt="Nyx's GitHub Stats" width="350" />
