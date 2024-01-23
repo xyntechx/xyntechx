@@ -4,7 +4,7 @@
 
 Hi there 👋 My name is Nyx (a.k.a. [xyntechx](https://xyntechx.com))
 
-I'm committed to build for the community through machine learning and web development. I love to explore novel technologies and innovate impactful solutions in education, robotics, etc. With my community-minded and initiative-taking spirit, I constantly challenge the process and seize every opportunity to solve challenges faced by society.
+Inspired by sci-fi movies such as Astro Boy and Wall-E, my debut in tech was a result of my immense curiosity and drive to explore the unprecedented. As I grow as an ardent techie, my motivation to build flourishes into one that increasingly includes solving societal challenges, pushing me to launch and continuously develop technological solutions to assist people in fields as broad as education (e.g. through [NexLiber](https://nexliber.com)) or as niche as Japanese animation (e.g. through [Manga Layout Analysis](https://github.com/xyntechx/Manga-Layout-Analysis)). Currently, I'm polishing my skills in web dev and deep learning computer vision while passionately exploring robotics, particularly human-robot interaction!
 
 ### More About Me
 
