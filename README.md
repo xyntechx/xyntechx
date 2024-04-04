@@ -4,7 +4,11 @@
 
 Hi there 👋 My name is Nyx (a.k.a. [xyntechx](https://xyntechx.com))
 
-Inspired by sci-fi movies such as Astro Boy and Wall-E, my interest in tech bloomed at a very young age due to my immense curiosity about the relationship between people and seemingly conscious robots (I still have pencil sketches of my own Wall-E from when I was 7 years old). As I contribute to and become more involved in the tech community, my focus shifts towards how we can define and build intelligent machines which coexist optimally with people, driving my research interests in human-compatible AI and Cooperative Inverse Reinforcement Learning (CIRL). I'm also passionate about building tech solutions to societal challenges: [NexLiber](https://nexliber.com), an edutech platform for developers; [Manga Layout Analysis](https://github.com/xyntechx/Manga-Layout-Analysis), an automated deep learning manga analysis system to assist overworked Japanese animators (also a published research project); and an in-the-works healthtech project leveraging AR and LLMs. In the future, I hope to lead the development of human-compatible technologies for public good.
+I've always loved making stuff, from manga to password-locked pencil cases. In late 2018, a bus advertisement on game development inspired me to learn coding. After building a multitude of projects - as you can see here on GitHub - I found that tech is what enables me to be the most creative, to make the most stuff.
+
+I'm particularly passionate about building tech solutions to societal challenges, such as [NexLiber](https://nexliber.com) (an edutech platform for developers) and [Manga Layout Analysis](https://github.com/xyntechx/Manga-Layout-Analysis) (a published research project which is an automated deep learning manga analysis system to assist overworked Japanese animators). In the future, I hope to lead the development of human-compatible technologies for public good.
+
+Outside of tech, I love to play volleyball, boulder, and draw manga!
 
 ### More About Me
 
