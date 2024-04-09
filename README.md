@@ -8,7 +8,7 @@ I'm particularly passionate about building tech solutions to societal challenges
 
 Outside of tech, I love to play volleyball, boulder, and draw manga!
 
-### More About Me
+### More about me
 
 🐻 Electrical Engineering & Computer Sciences (EECS) major at UC Berkeley
 
