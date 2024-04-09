@@ -1,4 +1,6 @@
-Hi there 👋 My name is Nyx (a.k.a. [xyntechx](https://xyntechx.com))
+### Hi there 👋
+
+I'm Nyx (a.k.a. [xyntechx](https://xyntechx.com)).
 
 I've always loved making stuff, from manga to password-locked pencil cases. In late 2018, a bus advertisement on game development inspired me to learn coding. After building a multitude of projects - as you can see here on GitHub - I found that tech is what enables me to be the most creative, to make the most stuff.
 
