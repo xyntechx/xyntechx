@@ -4,7 +4,7 @@ I'm Nyx (a.k.a. [xyntechx](https://xyntechx.com)).
 
 🐻 EECS (+ Public Policy & Economics) @ UC Berkeley
 
-🤖 AI Researcher @ Center for Human-Compatible Artificial Intelligence
+🤖 AI Undergrad Researcher @ Center for Human-Compatible AI
 
 🚀 GovTech Singapore Scholar
 
