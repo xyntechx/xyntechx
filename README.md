@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi 👋
 
 I'm Nyx (a.k.a. [xyntechx](https://xyntechx.com)).
 
-🐻 EECS (+ Public Policy & Economics) @ UC Berkeley
+🐻 EECS + Public Policy (+ Economics) @ UC Berkeley
 
 🤖 AI Undergrad Researcher @ Center for Human-Compatible AI
 
