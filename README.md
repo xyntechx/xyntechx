@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/banner.png" alt="Nyx's GitHub Stats" />
+  <img src="/banner.png" alt="Nyx's Profile Banner" />
 </p>
 
 Hi there 👋 I'm Nyx (a.k.a. [xyntechx](https://xyntechx.com))!
