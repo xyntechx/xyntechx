@@ -1,6 +1,8 @@
-### Hi 👋
+<p align="center">
+  <img src="/banner.png" alt="Nyx's GitHub Stats" width="500" />
+</p>
 
-I'm Nyx (a.k.a. [xyntechx](https://xyntechx.com)).
+Hi there 👋 I'm Nyx (a.k.a. [xyntechx](https://xyntechx.com))!
 
 🐻 EECS + Public Policy (+ Economics) @ UC Berkeley
 
