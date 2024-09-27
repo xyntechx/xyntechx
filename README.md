@@ -4,9 +4,9 @@
 
 Hi there 👋 I'm Nyx (a.k.a. [xyntechx](https://xyntechx.com))!
 
-🐻 EECS + Public Policy (+ Economics) @ UC Berkeley
+🐻 EECS + Public Policy @ UC Berkeley
 
-🤖 AI Undergrad Researcher @ Center for Human-Compatible AI
+🤖 Research @ [BAIR](https://bair.berkeley.edu/) + [CHAI](https://humancompatible.ai/) + [BRSL](https://brsl.berkeley.edu/)
 
 🚀 GovTech Singapore Scholar
 
