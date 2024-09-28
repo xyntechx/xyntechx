@@ -6,7 +6,7 @@ Hi there 👋 I'm Nyx (a.k.a. [xyntechx](https://xyntechx.com))!
 
 🐻 EECS + Public Policy @ UC Berkeley
 
-🤖 Research @ [BAIR](https://bair.berkeley.edu/) + [CHAI](https://humancompatible.ai/) + [BRSL](https://brsl.berkeley.edu/)
+🤖 Research @ [CHAI](https://humancompatible.ai/) + [BAIR](https://bair.berkeley.edu/) + [BRSL](https://brsl.berkeley.edu/)
 
 🚀 GovTech Singapore Scholar
 
