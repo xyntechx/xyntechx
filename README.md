@@ -6,7 +6,7 @@ Hi there 👋 I'm Nyx (a.k.a. [xyntechx](https://xyntechx.com))!
 
 🐻 EECS + Public Policy @ UC Berkeley
 
-🤖 AI/ML Research @ [BAIR](https://bair.berkeley.edu/), [CHAI](https://humancompatible.ai/), [BRSL](https://brsl.berkeley.edu/), [GovTech SG](https://www.tech.gov.sg/)
+🤖 AI/ML Research @ [BAIR](https://bair.berkeley.edu/) + [CHAI](https://humancompatible.ai/)
 
 🍜 AI/VR Engineering Intern @ [Ramen VR](https://www.ramenvr.com)
 
