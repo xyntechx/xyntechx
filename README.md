@@ -8,6 +8,8 @@ Hi there 👋 I'm Nyx (a.k.a. [xyntechx](https://xyntechx.com))!
 
 🤖 AI/ML Research @ [BAIR](https://bair.berkeley.edu/), [CHAI](https://humancompatible.ai/), [BRSL](https://brsl.berkeley.edu/), [GovTech SG](https://www.tech.gov.sg/)
 
+🍜 AI/VR Engineering Intern @ [Ramen VR](https://www.ramenvr.com)
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=xyntechx&theme=slateorange" alt="Nyx's GitHub Stats" width="350" />
 </p>
