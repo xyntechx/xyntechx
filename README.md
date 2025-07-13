@@ -1,10 +1,6 @@
-<p align="center">
-  <img src="/banner.png" alt="Nyx's Profile Banner" />
-</p>
+Hi there 👋 I'm Nyx (a.k.a. [xyntechx](https://xyntechx.com))! I'm an undergraduate AI researcher and government tech scholar interested in cognitive robotics, representation learning, and responsible AI.
 
-Hi there 👋 I'm Nyx (a.k.a. [xyntechx](https://xyntechx.com))!
-
-🐻 EECS + Public Policy @ UC Berkeley
+🐻 B.S. Electrical Engineering & Computer Sciences (Honors) @ UC Berkeley
 
 🤖 AI/ML Research @ [BAIR](https://bair.berkeley.edu/) + [CHAI](https://humancompatible.ai/)
 
