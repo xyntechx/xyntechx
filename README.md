@@ -1,4 +1,4 @@
-Hi there 👋 I'm Nyx (a.k.a. [xyntechx](https://xyntechx.com))! I'm an undergraduate AI researcher and government tech scholar interested in representation learning, embodied intelligence, and responsible AI.
+Hi there 👋 I'm Nyx (a.k.a. [xyntechx](https://xyntechx.com))! I'm an undergraduate AI researcher and government tech scholar interested in RL, planning, and LLMs for code generation and embodied intelligence.
 
 🐻 B.S. Electrical Engineering & Computer Sciences (Honors) @ UC Berkeley
 
