@@ -1,4 +1,4 @@
-Hi there 👋 I'm Nyx (a.k.a. [xyntechx](https://xyntechx.com))! I'm an undergraduate AI researcher and government tech scholar interested in RL and planning for robust experiential intelligence.
+Hi there 👋 I'm Nyx (a.k.a. [xyntechx](https://xyntechx.com))! I'm an undergraduate AI researcher and government tech scholar interested in RL and planning for robust experiential and grounded intelligence.
 
 🐻 B.S. Electrical Engineering & Computer Sciences (Honors) @ UC Berkeley
 
