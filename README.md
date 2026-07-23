@@ -1,1 +1,1 @@
-If Goku was an ML nerd and Vegeta a history nerd, I'm Vegito.
+hmu if you have a guess for what [xyntechx](https://xyntechx.com) means
